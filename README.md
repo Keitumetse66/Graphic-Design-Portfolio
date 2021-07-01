@@ -17,4 +17,6 @@ Welcome to my Graphic Design Portolio, I design graphics for small businesses an
 
 # Posters and Banners
 
+![Eaterykwasak Shisanyama](https://user-images.githubusercontent.com/55388127/124145440-160b1100-da8d-11eb-9a44-3d136bdd219a.png)
+
 [cold, smooth & tasty..pdf](https://github.com/Keitumetse66/Graphic-Design-Portfolio/files/6748959/cold.smooth.tasty.pdf)
